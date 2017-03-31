@@ -2,7 +2,7 @@
 
 ## Outline
 
-> [Basic C++ syntax](/C-Notes/Syntax.md)
+> [Basic C++ syntax](/C-Notes/syntax.md)
 > [Input & Output]
 > [Functions]
 > [Arrays]
