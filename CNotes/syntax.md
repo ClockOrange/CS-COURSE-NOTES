@@ -9,7 +9,7 @@ I. General Layout
 > - Other User Defined Functions
 
 II. Preprocessor Directives
-> - Syntax is:   #include   < standard library header files>  
-> - Syntax is:  #define  <identifier> <replacement text >
+> - Syntax is:   #include < standard library header files >  
+> - Syntax is:  #define   < identifier > < replacement text >
 
 
